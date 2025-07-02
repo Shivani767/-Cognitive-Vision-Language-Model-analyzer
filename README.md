@@ -18,6 +18,6 @@ Cognitive-Vision-Language-Model-analyzer is a research-driven project that inves
  - LLaVA
  - Flamingo (Coming soon)
  - Kosmos-2
-## [![Watch Demo](https://github.com/Shivani767/Cognitive-Vision-Language-Model-analyzer/blob/Shivani/thumbnail.png?raw=true)](https://github.com/Shivani767/Cognitive-Vision-Language-Model-analyzer/blob/Shivani/Intel_VLMs_Project_.mp4?raw=true)
+## [![Watch Demo](https://github.com/Shivani767/Cognitive-Vision-Language-Model-analyzer/blob/Shivani/Intel_VLMs_Project_.mp4?raw=true)
 
    
