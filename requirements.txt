@@ -1,0 +1,8 @@
+streamlit==1.33.0
+transformers==4.40.1
+torch==2.7.1
+torchvision==0.18.1
+Pillow==10.3.0
+faiss-cpu==1.7.4
+numpy==1.24.4
+tqdm==4.66.2
